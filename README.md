@@ -23,7 +23,7 @@ This project utilizes Google MediaPipe library and local webcam on your laptop o
 + Create Webhook on your personal Discord server to post data in your specific channel.
 
 ## How it works
-<p align="center"><img src="https://i.imgur.com/Majdk0v.png" alt="How to Get Set Up Slides." /></p>
+[![name](https://i.imgur.com/Majdk0v.png)](https://www.canva.com/design/DAFANrndBeo/Yv1Bh3Fl3MbNDJHwkWRo2g/view?utm_content=DAFANrndBeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Requirements
 
