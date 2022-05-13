@@ -1,6 +1,7 @@
 # HandTrackingThanosSnapToDiscord
 Utilizing Google MediaPipe and local WebCam to trigger snapshot and message to discord webhook
 
+<p align="center"><img src="https://c.tenor.com/TG5OF7UkLasAAAAC/thanos-infinity.gif" alt="" /></p>
 <p align="center"><img src="https://i.imgur.com/oNKzonR.png" alt="Discord output" /></p>
 
 This project utilizes Google MediaPipe library and local webcam on your laptop or computer to detect landmarks of the 21 possible on your hands.  It then converts this object into RGB image and uses Discord webhook utility as endpoint to send over this snapshot along with your favorite Avengers Quote.  The message is displayed accordingly on your discord channel. 
